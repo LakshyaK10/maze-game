@@ -1,0 +1,16 @@
+level_data = [
+    "BBBBBBBBBBBBBBBBBB",
+    "B S              B",
+    "B BBB  BB   BBBB B",
+    "B  B   BB    BB  B",
+    "B    H     B     B",
+    "B    HH    BB HHHB",
+    "B BB   BB  B     B",
+    "B   B        BBB B",
+    "B  BB    H B  BB B",
+    "B      B H BB B  B",
+    "B BB BBBB  B  B  B",
+    "B  B  BB     BBB B",
+    "B  B   D BB    E B",
+    "BBBBBBBBBBBBBBBBBB",
+]
